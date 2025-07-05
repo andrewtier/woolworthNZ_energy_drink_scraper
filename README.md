@@ -80,4 +80,4 @@ Have questions or want to contribute? Feel free to open an issue or reach out!
 
 ---
 
-Let me know if you want me to generate badges (e.g., Python version, License, GitHub stars) or if 
+Let me know if you want me to generate badges (e.g., Python version, License, GitHub stars) or if you’re planning to make it into a public repo and want GitHub Actions for automation.
